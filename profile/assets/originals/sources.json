@@ -1,0 +1,192 @@
+{
+  "thaumometer": {
+    "url": "https://static.wikia.nocookie.net/thaumcraft-4/images/f/f2/Thaumometer-1-.png/revision/latest?cb=20140129171023",
+    "polygon": [
+      [
+        195,
+        3
+      ],
+      [
+        561,
+        7
+      ],
+      [
+        742,
+        326
+      ],
+      [
+        568,
+        639
+      ],
+      [
+        198,
+        639
+      ],
+      [
+        4,
+        314
+      ]
+    ],
+    "trim": true,
+    "clear_hidden_rgb": true,
+    "page": "https://thaumcraft-4.fandom.com/wiki/Thaumometer",
+    "description": "Thaumcraft 4 in-game thaumometer image uploaded in January 2014. Background removed along its outer hexagon.",
+    "attribution": "Thaumcraft / Azanor; image hosted by Thaumcraft 4 Wiki contributors.",
+    "source_sha256": "a7879653d946900da1c073c322cdba2cd02bd3b3515718704e0adea65d7a180f",
+    "png_sha256": "2d86cebe5143850f582bd3d0ba1cf685d12ae3ee95343871559b6240f210ca3c",
+    "source_size": [
+      746,
+      640
+    ],
+    "size": [
+      739,
+      637
+    ]
+  },
+  "warded-jar": {
+    "url": "https://static.wikia.nocookie.net/ftb_gamepedia/images/f/f0/Tilesheet_TC4_32_0.png/revision/latest?cb=20211227225209",
+    "crop": [
+      192,
+      640,
+      224,
+      672
+    ],
+    "page": "https://ftb.fandom.com/wiki/Warded_Jar_(Thaumcraft_4)",
+    "description": "Warded Jar from Thaumcraft 4.",
+    "attribution": "Thaumcraft / Azanor; sprite hosted by Feed The Beast Wiki contributors.",
+    "source_sha256": "8cca8bdec812e3fbaa9a080ef7e667ce9c02f8bba34194a328930dfb83bd7a0d",
+    "png_sha256": "ba196b2e35f83cbe18720b655f38d37af22e49345b08a4221cc3e33aaf3e11ab",
+    "source_size": [
+      672,
+      672
+    ],
+    "size": [
+      32,
+      32
+    ]
+  },
+  "macerator": {
+    "url": "https://static.wikia.nocookie.net/ftb_gamepedia/images/2/2b/Block_Macerator.png/revision/latest?cb=20151224165243",
+    "page": "https://ftb.fandom.com/wiki/Macerator_(IndustrialCraft_2)",
+    "description": "IndustrialCraft 2 Macerator render, source image uploaded in 2015; exact mod build unspecified.",
+    "attribution": "IndustrialCraft 2 team; render hosted by Feed The Beast Wiki contributors.",
+    "source_sha256": "384dcade32c1bb5492912f5e358d67d59b68620f75259171b92915b2a6c2de4e",
+    "png_sha256": "d19ff5ec2cfb8ab78b4c87678c67e3fe4fa9ecd2320e03575de2af597bbcc704",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ]
+  },
+  "me-drive": {
+    "url": "https://static.wikia.nocookie.net/feed-the-beast/images/2/2d/ME_Drive_Block2.png/revision/latest?cb=20130606154543",
+    "polygon": [
+      [
+        740,
+        375
+      ],
+      [
+        891,
+        309
+      ],
+      [
+        1033,
+        366
+      ],
+      [
+        1029,
+        477
+      ],
+      [
+        1091,
+        512
+      ],
+      [
+        1089,
+        562
+      ],
+      [
+        1057,
+        594
+      ],
+      [
+        999,
+        564
+      ],
+      [
+        899,
+        620
+      ],
+      [
+        767,
+        529
+      ]
+    ],
+    "trim": true,
+    "clear_hidden_rgb": true,
+    "page": "https://feed-the-beast.fandom.com/wiki/File:ME_Drive_Block2.png",
+    "description": "ME Drive from the original Applied Energistics, isolated from an in-game screenshot uploaded in June 2013; not Applied Energistics 2.",
+    "attribution": "Applied Energistics / AlgorithmX2; screenshot hosted by Feed The Beast Wiki contributors.",
+    "source_sha256": "da33796a68082c9f2000eab3705d54f7af387688ed5b8ed3cc80b143a92eace1",
+    "png_sha256": "c029748ebbd6bcc64e9a8ab01bfa15a29e4e7abbf70f76407b0d63dd801ff56a",
+    "source_size": [
+      1920,
+      1018
+    ],
+    "size": [
+      352,
+      312
+    ]
+  },
+  "quarry": {
+    "url": "https://static.wikia.nocookie.net/ftb_gamepedia/images/2/28/Quarry.png/revision/latest?cb=20200201134828",
+    "page": "https://ftb.fandom.com/wiki/Quarry",
+    "description": "BuildCraft Quarry render; source article describes the RF-powered generation. Exact build unspecified.",
+    "attribution": "BuildCraft team; render hosted by Feed The Beast Wiki contributors.",
+    "source_sha256": "39bdb1607267feb6901802d93b22aa3e6822e7d4855d8d9253e1e5356953dbd0",
+    "png_sha256": "e52ce1735618ef18000267271001d15caa43e549622f1f881367d85b4274f1fc",
+    "source_size": [
+      256,
+      256
+    ],
+    "size": [
+      256,
+      256
+    ]
+  },
+  "apiary": {
+    "url": "https://static.wikia.nocookie.net/feed-the-beast/images/1/14/Apiary.png/revision/latest?cb=20130214161249",
+    "page": "https://feed-the-beast.fandom.com/wiki/File:Apiary.png",
+    "description": "Forestry Apiary render uploaded in February 2013; source page does not specify an exact mod build.",
+    "attribution": "Forestry / SirSengir and contributors; render hosted by Feed The Beast Wiki contributors.",
+    "source_sha256": "3f2ff545bbba4db7b08ee613154e0b761a0009465f201391da702475ac4ba002",
+    "png_sha256": "5a6955d785ce362ec140ee504a338b7c4bb7e72a116fe37c531005d81788b2da",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ]
+  },
+  "lavacraft-logo": {
+    "url": "https://lavacraft.ru/imgNew/logo.png",
+    "page": "https://lavacraft.ru/",
+    "description": "Official LavaCraft.ru website logo, selected after the user identified this server.",
+    "attribution": "LavaCraft.ru. This is the server logo, not an invented LavaMod block.",
+    "source_sha256": "0c680a4cfa33b37eab8e1417ed58f5a5f5c8b3355fadbe7355aa02b0643ef200",
+    "png_sha256": "1b9ea27462e7f2412c6a342991ec699fad982ceca691e88751d1c219862a8f7f",
+    "source_size": [
+      360,
+      220
+    ],
+    "size": [
+      360,
+      220
+    ]
+  }
+}
